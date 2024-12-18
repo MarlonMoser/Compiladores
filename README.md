@@ -11,5 +11,7 @@ Análise Semântica: Verificação de tipos, checagem de semântica e manutenç�
 
 Geração de Código: Transformação da linguagem intermediária para linguagem de máquina;
 
-Um dos desafios foi realizar o codigo em C#, sem nunca ter feito nenhum projeto ou trabalho com ele anteriormente, foi uma experiencia nova e com desafios que nunca tinha passado antes.
+Um dos desafios foi trancrever o codigo de java para C#, sem nunca ter feito nenhum projeto ou trabalho com ele anteriormente, foi uma experiencia nova e com desafios que nunca tinha passado antes.
 Foi um grande aprendizado alem de conseguir aprofundar mais meu conhecimento na área.
+
+Utilizamos o Gals para poder gerar o codigo em java, e assim transcrever em C#.
